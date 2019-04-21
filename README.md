@@ -38,6 +38,8 @@ Potentially helpful libraries include:
 
 ## Implementation details
 
+![Circuit](img/Circuit.jpg)
+![Case measures](img/Case_cutout_measures.jpg)
 ![Case cutout_plan](img/Case_cutout_plan.jpg)
 ![Case overview 2](img/Case_overview_2.jpg)
 ![Case overview](img/Case_overview.jpg)
