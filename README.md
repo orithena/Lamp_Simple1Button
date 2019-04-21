@@ -2,9 +2,9 @@
 
 Animated Rainbow LED Lamp w/ WS2812b LED stripes, Arduino and 1 Button.
 
-!(Rainbow Lamp)[img/Rainbow_lamp.jpg]
+![Rainbow Lamp](img/Rainbow_lamp.jpg)
 
-!(Rainbow Lamp video)[img/lamp_action.mp4]
+![Rainbow Lamp video](img/lamp_action.mp4)
 
 ## Parts
 
