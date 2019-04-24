@@ -10,11 +10,11 @@ Animated Rainbow LED Lamp w/ WS2812b LED stripes, Arduino and 1 Button.
 
 * 1x Board: [WeMos D1 mini](https://wiki.wemos.cc/products:d1:d1_mini) with ESP8266 processor
 * LED strip with 16 [WS2812b](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf) LEDs
-* 1x mechanical push button
+* 1x mechanical push button (long button pin: bottom-to-top=1.5cm)
 * 1x 10kOhm resistor as pull-up for the button
 * Powered via MicroUSB (5V, 1A)
-* 1x cardboard case
-* 1x laminated paper as front screen
+* 1x cardboard case (half-circle, radius=8.5cm, inner thickness=1.5cm)
+* 1x laminated paper as front screen (80g, half-circle, as big as your laminating pouch allows)
 
 
 ## Software
