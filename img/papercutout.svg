@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70000001"
-     inkscape:cx="348.44439"
-     inkscape:cy="629.84051"
+     inkscape:cx="379.87296"
+     inkscape:cy="624.12622"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -157,7 +157,7 @@
        id="path3242"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="path836"
        sodipodi:type="arc"
        sodipodi:cx="100"
@@ -169,7 +169,7 @@
        sodipodi:open="true"
        d="m 95,127 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="path842"
        sodipodi:type="arc"
        sodipodi:cx="100"
@@ -181,47 +181,52 @@
        d="m 105,142.07812 a 5,4.9999995 0 0 1 -2.5,4.33013 5,4.9999995 0 0 1 -5,0 5,4.9999995 0 0 1 -2.5,-4.33013"
        sodipodi:open="true" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 94.999999,127 95,142"
        id="path844"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 105,127 v 15"
        id="path846"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 65.103352,176.17978 a 7.0710001,7.0710001 0 0 0 -5.103048,2.07016 7.0710001,7.0710001 0 0 0 0,9.99991 C 65.000305,190.74985 65,192 65,192 c 0,0 2.12e-4,-1.25015 5.00021,-3.75015 a 7.0710001,7.0710001 0 0 0 0,-9.99991 7.0710001,7.0710001 0 0 0 -4.896858,-2.07016 z"
        id="path856"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 135.1031,176.1797 a 7.0710002,7.0710002 0 0 0 -5.10305,2.07016 7.0710002,7.0710002 0 0 0 0,9.99991 c 5,2.5 4.99969,3.75015 4.99969,3.75015 0,0 2.2e-4,-1.25015 5.00021,-3.75015 a 7.0710002,7.0710002 0 0 0 0,-9.99991 7.0710002,7.0710002 0 0 0 -4.89685,-2.07016 z"
        id="path856-3"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:60.00000238%;font-family:Atari;-inkscape-font-specification:Atari;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="23.634775"
-       y="103.07718"
+       x="24.769857"
+       y="90.477303"
        id="text888"><tspan
          sodipodi:role="line"
          id="tspan886"
-         x="23.634775"
-         y="103.07718"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:60.00000238%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;text-anchor:start;fill:#ff00ff;stroke-width:0.26458332px">Red: Fold lines (don't cut through)</tspan><tspan
+         x="24.769857"
+         y="90.477303"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:60.00000238%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;text-anchor:start;fill:#ff00ff;stroke-width:0.26458332px">Pass 1: Blue lines, cut (F3000, 100%)</tspan><tspan
          sodipodi:role="line"
-         x="23.634775"
-         y="108.27692"
+         x="24.769857"
+         y="95.677048"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:60.00000238%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;text-anchor:start;fill:#ff00ff;stroke-width:0.26458332px"
-         id="tspan890">Black: Cut lines</tspan><tspan
+         id="tspan890">Pass 2: Red lines, engrave (F4000, 17%)</tspan><tspan
          sodipodi:role="line"
-         x="23.634775"
-         y="113.47667"
+         x="24.769857"
+         y="100.87679"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:60.00000238%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;text-anchor:start;fill:#ff00ff;stroke-width:0.26458332px"
-         id="tspan892">Purple: Ignore</tspan></text>
+         id="tspan836">Pass 3: Black lines, cut (F3000, 100%)</tspan><tspan
+         sodipodi:role="line"
+         x="24.769857"
+         y="106.07654"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:60.00000238%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;text-anchor:start;fill:#ff00ff;stroke-width:0.26458332px"
+         id="tspan892">Ignore Purple</tspan></text>
   </g>
 </svg>
