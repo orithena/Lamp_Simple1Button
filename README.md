@@ -22,10 +22,17 @@ Animated Rainbow LED Lamp w/ WS2812b LED stripes, Arduino and 1 Button.
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 * ESP8266 toolchain
   * Add in File -> Preferences -> Additional board manager URLs: `http://arduino.esp8266.com/stable/package_esp8266com_index.json`
-  * Search in Tools -> Board -> Board Manager for "esp8266", then install version 2.4.1
+  * Search in Tools -> Board -> Board Manager for "esp8266", then install version 2.4.1 (if you want the newest version, you need to heed the FastLED notes below)
+    * Select "WeMos D1 R2 & mini" or "LOLIN(WeMos) D1 R2 & mini" in Tools -> Board menu
 * Libraries
   * Sketch -> Include Library -> Manage Libraries -> Search for "Button" and "[FastLED](http://fastled.io/)", install them.
+    * Alternatively, install newest board version, then [apply this patch to FastLED library](https://github.com/FastLED/FastLED/commit/6b6c9c1c35f235e846334d9cd8984b4b4399f471)
+    * Alternatively, install newest board version, then install [FastLED master branch via git](https://github.com/FastLED/FastLED) 
 
+## Troubleshooting
+
+* Compile error: "D6/D3 was not declared in this scope": Select the right board (see above)
+* Compile error: "conflicting declaration 'typedef uint8_t boolean'": Patch FastLED or use ESP8622 board definitions version 2.4.1
 
 ## Building more features
 
@@ -41,6 +48,7 @@ Potentially helpful libraries include:
 ![Circuit](img/Circuit.jpg)
 ![Case measures](img/Case_cutout_measures.jpg)
 ![Case cutout_plan](img/Case_cutout_plan.jpg)
+[Case cutout as SVG, suitable for laser cutting](img/papercutout.svg)
 ![Case overview 2](img/Case_overview_2.jpg)
 ![Case overview](img/Case_overview.jpg)
 ![Board side](img/Board_side_2.jpg)
